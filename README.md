@@ -2,7 +2,7 @@
 # 💼 Workaround - javascript modules<br>
 [Objective](#objective_h) | [languajes](#languajes_h) | [Status](#status_h) | [Acknowledge](#acknowledge_h) 
 
-<p>Web that calculates the salary according the position and company size.</p><br>
+<p>Web that calculates the salary according to the position and company size.</p><br>
 
 <h2>Objective<a name="objective_h"></a></h2>
 <p>Implement modules in javascript</p>
